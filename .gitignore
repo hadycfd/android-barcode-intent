@@ -15,7 +15,9 @@ out/
 
 # Gradle files
 .gradle/
+gradle.properties #settingan proxy saya di sini
 build/
+gradle/
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -34,6 +36,7 @@ captures/
 
 # Intellij
 *.iml
+/.idea/
 
 # Keystore files
 *.jks
